@@ -1,0 +1,16 @@
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\bin\Debug\Raspoznanie cifr.exe.config
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\bin\Debug\Raspoznanie cifr.exe
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\bin\Debug\Raspoznanie cifr.pdb
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.csprojResolveAssemblyReference.cache
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie_cifr.MainForm.resources
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.csproj.GenerateResource.Cache
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.exe
+D:\programs\PROJECTS\C#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.pdb
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\bin\Debug\Raspoznanie cifr.exe.config
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\bin\Debug\Raspoznanie cifr.exe
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\bin\Debug\Raspoznanie cifr.pdb
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.csprojResolveAssemblyReference.cache
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie_cifr.MainForm.resources
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.csproj.GenerateResource.Cache
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.exe
+F:\develop\projects\c#\Raspoznanie cifr\Raspoznanie cifr\obj\Debug\Raspoznanie cifr.pdb
