@@ -2,7 +2,7 @@
 
 ## Project overview
 
-This project was developed for debug purposes. Åhe main objective of this project is to examine and debug Sudoku recognition algorithm. Algorithm develops for mobile devices. 
+This project was developed for debug purposes. Ã…he main objective of this project is to examine and debug Sudoku recognition algorithm. Algorithm develops for mobile devices. 
 C# was selected, because project starts when started to learn this language.
 
 *Input data*: an image (.BMP, .jPEG or .gif)
@@ -19,7 +19,7 @@ C# was selected, because project starts when started to learn this language.
 
 - sometimes dont recognit numbers. '6' '8' '9' and '3'
 - problems with grid
-- dont have yet any exception. any error in algorith invoke fatal error and finish th programm.
+- dont have yet any exception. Any error in algorithm invoke fatal error and finish the programm.
 
 ## Future plans 
 
@@ -28,5 +28,3 @@ C# was selected, because project starts when started to learn this language.
 - Add neural network to number recognition.
 
 transfer algorithm into mobile platform.
-
-
